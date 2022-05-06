@@ -3,5 +3,5 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nakarin-jayjong-26b963207/)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/nakarin-jayjong-26b963207/)
 &nbsp;&nbsp;
