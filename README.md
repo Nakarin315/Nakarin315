@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Nakarin Jayjong
 - 👀 I’m interested in Physics
+- 
+### Connect with me:
 
-<!---
-Nakarin315/Nakarin315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
