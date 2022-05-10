@@ -11,3 +11,10 @@ Connect with me:
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NJayjong) 
 
 [![Website](https://img.shields.io/website?up_color=blue&up_message=Nicholsonlabs&url=https%3A%2F%2Fnicholsonlabs.org%2Fpeople%2F)](https://nicholsonlabs.org/people/)
+
+Languages and Tools:
+
+![Website](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Website](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Website](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Website](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
