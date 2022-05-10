@@ -5,4 +5,4 @@ Hello, I’m Nakarin Jayjong
 
 Connect with me:
 
-[![linkedin]!(https://img.shields.io/twitter/url?label=linkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnakarin-jayjong-26b963207%2F)](https://www.linkedin.com/in/nakarin-jayjong-26b963207/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakarin-jayjong-26b963207/)
