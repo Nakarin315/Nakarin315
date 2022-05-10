@@ -5,6 +5,6 @@ Hello, I’m Nakarin Jayjong
 <br />
 Connect with me:
 <br />
--[LinkedIn](https://www.linkedin.com/in/nakarin-jayjong-26b963207/)
+[LinkedIn](https://www.linkedin.com/in/nakarin-jayjong-26b963207/)
 <br />
--[CQT](https://www.quantumlah.org/people/profile/Nakarin-Jayjong)
+[CQT](https://www.quantumlah.org/people/profile/Nakarin-Jayjong)
