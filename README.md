@@ -1,4 +1,4 @@
-
+![Website](https://career-lunch-storage.s3.eu-central-1.amazonaws.com/v2/blog/articles/linkedin-title-picture.jpg)
 Hello, I’m Nakarin Jayjong
 - 👀 I’m interested in Physics
 - 📖 I'm a PhD Student at Centre for Quantum Technologies (CQT)
