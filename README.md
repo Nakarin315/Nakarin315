@@ -6,4 +6,8 @@ Hello, I’m Nakarin Jayjong
 
 Connect with me:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakarin-jayjong-26b963207/) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NJayjong)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakarin-jayjong-26b963207/) 
+
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NJayjong) 
+
+![Website](https://img.shields.io/website?up_color=blue&up_message=Nicholsonlabs&url=https%3A%2F%2Fnicholsonlabs.org%2Fpeople%2F)
