@@ -29,11 +29,15 @@ My interests include:
 
 ## Technical Skills
 
-### Programming & Scientific Computing
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-FF6600?style=for-the-badge&logo=wolfram&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF6C00?style=for-the-badge&logo=solidworks&logoColor=white)
+![Autodesk EAGLE](https://img.shields.io/badge/Autodesk%20EAGLE-1797B3?style=for-the-badge&logo=autodesk&logoColor=white)
+![COMSOL](https://img.shields.io/badge/COMSOL-F15A24?style=for-the-badge&logo=COMSOL&logoColor=white)
+
 
